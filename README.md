@@ -1,4 +1,7 @@
 # TicTacToe
+## Latest Release
+**[v0.1.0](https://github.com/romgbrte/TicTacToe/releases/tag/v0.1.0)**
+
 ## What is this?
 This project is the product of a group-focused college course from 2014 wherein each group was to design and build a tic-tac-toe game for use in a last-game-standing tournament between the groups.
 
